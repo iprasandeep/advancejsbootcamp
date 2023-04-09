@@ -13,7 +13,19 @@
 // IFFE -> A function expression
 
 
-(function(){
-    var a =10;
+// (function(){
+//     var a =10;
 
-})();
+// })();
+
+// var z  =1;
+// var script = (function (){
+//     function a(){
+//         return 5;
+//     }
+//     return {
+//         a:a
+//     }
+// })()
+
+// console.log(script.a())
